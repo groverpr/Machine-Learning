@@ -9,13 +9,13 @@ In this jupyter notebook, I have implementation of basic gradient boosting algor
 *  [Neural Net from scratch](algo_scratch/Neural%20Net%20from%20scratch.ipynb	)
 Using MNSIT data, this notebook has implementation of neural net from scratch using PyTorch.
 
-* [Collaborating Filter](algo_scratch/collaborating_filter.ipynb)  
+* [Collaborating Filter](algo_scratch/collaborating_filter.ipynb)
 Builting MovieLens recommendation system with collaborating filtering using PyTorch and fast.ai.
 
 * [Intuitive Interpretetion of Random Forests](algo_scratch/random%20forest%20and%20interpretetion.ipynb)
 How to interpret a seemimngly blackbox algorithm. Feature importance, Tree interpretor and Confidence intervals for predictions.
   
-* [NLP](algo_scratch/NLP.ipynb) .  
+* [NLP](algo_scratch/NLP.ipynb)
 Naive bayes, logistic regression, bag of words on IMDB data.
   
 **PS:** I am a Data Science student at USF. Most of the content in this repo is motivated from what I study in class.
