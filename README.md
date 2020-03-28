@@ -23,3 +23,12 @@ Naive bayes, logistic regression, bag of words on IMDB data.
 
 * [07_Eigenfaces.ipynb](notebooks/07_Eigenfaces.ipynb	)
 Preprocessing of faces and PCA analysis on the data to recontruct faces and see similarities among differnt faces.
+
+* [08_kmeans_scratch.ipynb](notebooks/08_kmeans_scratch.ipynb	)
+K-means using basic python libraries
+
+* [09_Quantile_Regression.ipynb](notebooks/09_Quantile_Regression.ipynb	)
+Quantile Regression
+
+* [10_Transfer_Learn_MXNet.ipynb](notebooks/10_Transfer_Learn_MXNet.ipynb	)
+Transfer Learning using MXNet
