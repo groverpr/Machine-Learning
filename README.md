@@ -1,7 +1,7 @@
 # Machine Learning Models
 
 
-Main focus of this repo is to have implementation of various ML algoriths from scratch. It will be helpful for someone who wants not only wants to conceptually and intuitively understand various algos, but also learn how to code them. 
+This repo contains tutorials to implement various ML algorithms from scratch or using pre-built libraries. This is a living repo and I will be adding more tutorials as I learn more. Hope it will be helpful for someone who wants to understand these algorithms conceptually as well as learn how to implement them using Python. 
   
 * [01_Gradient_Boosting_Scratch.ipynb](notebooks/01_Gradient_Boosting_Scratch.ipynb)
 This jupyter notebook has implementation of basic gradient boosting algorithm with an intuitive example. Learn about decision tree and intuition behind gradient boositng trees.
@@ -23,3 +23,12 @@ Naive bayes, logistic regression, bag of words on IMDB data.
 
 * [07_Eigenfaces.ipynb](notebooks/07_Eigenfaces.ipynb	)
 Preprocessing of faces and PCA analysis on the data to recontruct faces and see similarities among differnt faces.
+
+* [08_kmeans_scratch.ipynb](notebooks/08_kmeans_scratch.ipynb)
+Implementation and visualization of kmeans algorithm from scratch.
+
+* [09_Quantile_Regression.ipynb](notebooks/09_Quantile_Regression.ipynb)
+Implementation of quantile regression using sklearn. 
+
+* [10_Transfer_Learn_MXNet.ipynb](notebooks/10_Transfer_Learn_MXNet.ipynb)
+Tutorial on how to perform transfer learning using MXNet. Notebook used in [this blogpost](https://groverpr.github.io/2020/02/18/Transfer-Learning-Using-MXNet.html#step-4-training-base-model). 
