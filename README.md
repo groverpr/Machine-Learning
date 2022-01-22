@@ -1,5 +1,3 @@
-# Machine Learning Models
-
 
 This repo contains tutorials to implement various ML algorithms from scratch or using pre-built libraries. This is a living repo and I will be adding more tutorials as I learn more. Hope it will be helpful for someone who wants to understand these algorithms conceptually as well as learn how to implement them using Python. 
   
